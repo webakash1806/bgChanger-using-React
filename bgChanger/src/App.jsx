@@ -1,8 +1,11 @@
 import "./App.css"
+import Changer from "./Changer"
 
 const App = () => {
   return (
-    <p className="bg-green-500">hello</p>
+    <>
+      <Changer />
+    </>
   )
 }
 
