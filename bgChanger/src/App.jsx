@@ -1,4 +1,3 @@
-import "./App.css"
 import Changer from "./Changer"
 
 const App = () => {
